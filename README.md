@@ -1,4 +1,4 @@
 FilmCadamia-Server
 ==================
 
-SErveur de la logithèque
+Serveur de la logithèque
